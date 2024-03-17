@@ -1,0 +1,5892 @@
+{
+  "100": {
+    "names": [
+      "curcumins"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "101": {
+    "names": [
+      "riboflavins"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "102": {
+    "names": [
+      "tartrazine",
+      "FD&C Yellow #5"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "103": {
+    "names": [
+      "alkannin",
+      "chrysoine resorcinol"
+    ],
+    "categories": [
+      "colour",
+      "colour (red)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": false
+    }
+  },
+  "104": {
+    "names": [
+      "Quinoline Yellow WS",
+      "D&C Yellow #10"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "107": {
+    "names": [
+      "Yellow 2G"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": false
+    }
+  },
+  "110": {
+    "names": [
+      "Sunset Yellow FCF",
+      "FD&C Yellow #6"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "111": {
+    "names": [
+      "Orange GGN"
+    ],
+    "categories": [
+      "colour",
+      "colour (orange)"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": true,
+      "US": false
+    },
+    "delisted": true
+  },
+  "120": {
+    "names": [
+      "Cochineal",
+      "carmines"
+    ],
+    "categories": [
+      "colour",
+      "colour (red)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "121": {
+    "names": [
+      "Citrus red 2",
+      "Orcein",
+      "Orchil"
+    ],
+    "categories": [
+      "colour",
+      "colour (red)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "122": {
+    "names": [
+      "azorubine",
+      "carmoisine",
+      "Ext D&C Red #10"
+    ],
+    "categories": [
+      "colour",
+      "colour (red)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "123": {
+    "names": [
+      "amaranth",
+      "Red #2"
+    ],
+    "categories": [
+      "colour",
+      "colour (red)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": false
+    },
+    "delisted": true
+  },
+  "124": {
+    "names": [
+      "Brilliant Scarlet 4R",
+      "Ponceau 4R",
+      "Ext D&C Red #8"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "125": {
+    "names": [
+      "Ponceau SX",
+      "Scarlet GN"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": false
+    }
+  },
+  "126": {
+    "names": [
+      "Ponceau 6R"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": false
+    },
+    "delisted": true
+  },
+  "127": {
+    "names": [
+      "erythrosine",
+      "FD&C Red #3"
+    ],
+    "categories": [
+      "colour",
+      "colour (red)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "128": {
+    "names": [
+      "Red 2G"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": false
+    }
+  },
+  "129": {
+    "names": [
+      "Allura red AC",
+      "FD&C Red #40"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "130": {
+    "names": [
+      "Indanthrene blue RS"
+    ],
+    "categories": [
+      "colour",
+      "colour (blue)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "131": {
+    "names": [
+      "Patent blue V"
+    ],
+    "categories": [
+      "colour",
+      "colour (blue)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": false
+    }
+  },
+  "132": {
+    "names": [
+      "indigo carmine",
+      "indigotine",
+      "FD&C Blue #2"
+    ],
+    "categories": [
+      "colour",
+      "colour (blue)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "133": {
+    "names": [
+      "Brilliant blue FCF",
+      "FD&C Blue #1"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "140": {
+    "names": [
+      "chlorophylls"
+    ],
+    "categories": [
+      "colour",
+      "colour (green)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "141": {
+    "names": [
+      "Chlorophylls and chlorophyllins, copper complexes"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "142": {
+    "names": [
+      "Green S"
+    ],
+    "categories": [
+      "colour",
+      "colour (green)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "143": {
+    "names": [
+      "Fast green FCF",
+      "FD&C Green #3"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "150": {
+    "names": [
+      "Caramels"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "151": {
+    "names": [
+      "Brilliant Black BN (Black PN)"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "152": {
+    "names": [
+      "Carbon black"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": "?",
+      "US": false
+    }
+  },
+  "153": {
+    "names": [
+      "Vegetable carbon"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "154": {
+    "names": [
+      "Brown FK"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": false
+    }
+  },
+  "155": {
+    "names": [
+      "Chocolate Brown HT"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "162": {
+    "names": [
+      "beet red"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "163": {
+    "names": [
+      "anthocyanins"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "164": {
+    "names": [
+      "Gardenia yellow"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "165": {
+    "names": [
+      "Gardenia blue"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "166": {
+    "names": [
+      "sandalwood"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "170": {
+    "names": [
+      "calcium carbonates"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "171": {
+    "names": [
+      "titanium dioxide"
+    ],
+    "categories": [
+      "colour",
+      "colour (white)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "172": {
+    "names": [
+      "iron oxides"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "173": {
+    "names": [
+      "aluminium"
+    ],
+    "categories": [
+      "colour",
+      "colour (silver)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "174": {
+    "names": [
+      "silver"
+    ],
+    "categories": [
+      "colour",
+      "colour (silver)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "175": {
+    "names": [
+      "gold"
+    ],
+    "categories": [
+      "colour",
+      "colour (gold)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "180": {
+    "names": [
+      "Lithol Rubine BK"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": false
+    }
+  },
+  "181": {
+    "names": [
+      "tannins"
+    ],
+    "categories": [
+      "colour",
+      "emulsifier",
+      "stabiliser",
+      "thickener"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "182": {
+    "names": [
+      "orchil"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "200": {
+    "names": [
+      "sorbic acid"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "201": {
+    "names": [
+      "sodium sorbate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "202": {
+    "names": [
+      "potassium sorbate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "203": {
+    "names": [
+      "calcium sorbate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "209": {
+    "names": [
+      "heptyl p-hydroxybenzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "210": {
+    "names": [
+      "benzoic acid"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "211": {
+    "names": [
+      "sodium benzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "212": {
+    "names": [
+      "potassium benzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "213": {
+    "names": [
+      "calcium benzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "214": {
+    "names": [
+      "ethyl para-hydroxybenzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "215": {
+    "names": [
+      "sodium ethyl para-hydroxybenzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "216": {
+    "names": [
+      "propylparaben (propyl para-hydroxybenzoate)"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "217": {
+    "names": [
+      "sodium propyl para-hydroxybenzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "218": {
+    "names": [
+      "methylparaben (methyl para-hydroxybenzoate)"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "219": {
+    "names": [
+      "sodium methyl para-hydroxybenzoate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "220": {
+    "names": [
+      "sulfur dioxide"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "221": {
+    "names": [
+      "sodium sulfite"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "222": {
+    "names": [
+      "sodium bisulfite (sodium hydrogen sulfite)"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "223": {
+    "names": [
+      "sodium metabisulfite"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant",
+      "bleaching agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "224": {
+    "names": [
+      "potassium metabisulfite"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "225": {
+    "names": [
+      "potassium sulfite"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "226": {
+    "names": [
+      "calcium sulfite"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "227": {
+    "names": [
+      "calcium bisulfite",
+      "calcium hydrogen sulfite"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "228": {
+    "names": [
+      "potassium bisulfite",
+      "potassium hydrogen sulfite"
+    ],
+    "categories": [
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "230": {
+    "names": [
+      "diphenyl (biphenyl)"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "231": {
+    "names": [
+      "orthophenyl phenol (2-hydroxybiphenyl)"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "232": {
+    "names": [
+      "sodium orthophenyl phenol"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "233": {
+    "names": [
+      "thiabendazole"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "234": {
+    "names": [
+      "nisin"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "235": {
+    "names": [
+      "natamycin (pimaricin)"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "236": {
+    "names": [
+      "formic acid"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "237": {
+    "names": [
+      "sodium formate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "238": {
+    "names": [
+      "calcium formate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "239": {
+    "names": [
+      "hexamethylene tetramine (hexamine)"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "240": {
+    "names": [
+      "formaldehyde"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "241": {
+    "names": [
+      "gum guaicum"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "242": {
+    "names": [
+      "dimethyl dicarbonate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "249": {
+    "names": [
+      "potassium nitrite"
+    ],
+    "categories": [
+      "preservative",
+      "colour fixative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "250": {
+    "names": [
+      "sodium nitrite"
+    ],
+    "categories": [
+      "preservative",
+      "colour fixative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "251": {
+    "names": [
+      "sodium nitrate"
+    ],
+    "categories": [
+      "preservative",
+      "colour fixative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "252": {
+    "names": [
+      "potassium nitrate"
+    ],
+    "categories": [
+      "preservative",
+      "colour fixative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "260": {
+    "names": [
+      "glacial acetic acid"
+    ],
+    "categories": [
+      "preservative",
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "261": {
+    "names": [
+      "potassium acetates"
+    ],
+    "categories": [
+      "preservative",
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "262": {
+    "names": [
+      "sodium acetate",
+      "sodium hydrogen acetate"
+    ],
+    "categories": [
+      "preservative",
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "263": {
+    "names": [
+      "calcium acetate"
+    ],
+    "categories": [
+      "preservative",
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "264": {
+    "names": [
+      "ammonium acetate"
+    ],
+    "categories": [
+      "preservative",
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "265": {
+    "names": [
+      "dehydroacetic acid"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "266": {
+    "names": [
+      "sodium dehydroacetate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "270": {
+    "names": [
+      "lactic acid"
+    ],
+    "categories": [
+      "acidity regulator",
+      "preservative",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "280": {
+    "names": [
+      "propionic acid"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "281": {
+    "names": [
+      "sodium propionate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "282": {
+    "names": [
+      "calcium propionate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "283": {
+    "names": [
+      "potassium propionate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "284": {
+    "names": [
+      "boric acid"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "285": {
+    "names": [
+      "sodium tetraborate",
+      "borax"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "290": {
+    "names": [
+      "carbon dioxide"
+    ],
+    "categories": [
+      "acidity regulator",
+      "propellant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "296": {
+    "names": [
+      "malic acid"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "297": {
+    "names": [
+      "fumaric acid"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "300": {
+    "names": [
+      "ascorbic acid"
+    ],
+    "categories": [
+      "antioxidant (water-soluble)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "301": {
+    "names": [
+      "sodium ascorbate"
+    ],
+    "categories": [
+      "antioxidant (water-soluble)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "302": {
+    "names": [
+      "calcium ascorbate"
+    ],
+    "categories": [
+      "antioxidant (water-soluble)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "303": {
+    "names": [
+      "potassium ascorbate"
+    ],
+    "categories": [
+      "antioxidant (water-soluble)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "304": {
+    "names": [
+      "ascorbyl palmitate",
+      "ascorbyl stearate"
+    ],
+    "categories": [
+      "antioxidant (fat soluble)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "307": {
+    "names": [
+      "tocopherols"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "308": {
+    "names": [
+      "gamma-tocopherol (synthetic)"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "309": {
+    "names": [
+      "delta-tocopherol (synthetic)"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "310": {
+    "names": [
+      "propyl gallate"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "311": {
+    "names": [
+      "octyl gallate"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "312": {
+    "names": [
+      "dodecyl gallate"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "315": {
+    "names": [
+      "erythorbic acid"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "316": {
+    "names": [
+      "sodium erythorbate"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "317": {
+    "names": [
+      "erythorbin acid[citation needed]"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": "?",
+      "US": true
+    }
+  },
+  "318": {
+    "names": [
+      "sodium erythorbin[citation needed]"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": "?",
+      "US": true
+    }
+  },
+  "319": {
+    "names": [
+      "tert-butylhydroquinone"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "320": {
+    "names": [
+      "butylated hydroxyanisole (BHA)"
+    ],
+    "categories": [
+      "antioxidant (fat soluble)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "321": {
+    "names": [
+      "butylated hydroxytoluene (BHT)"
+    ],
+    "categories": [
+      "antioxidant (fat soluble)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "322": {
+    "names": [
+      "lecithins"
+    ],
+    "categories": [
+      "antioxidant",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "325": {
+    "names": [
+      "sodium lactate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "326": {
+    "names": [
+      "potassium lactate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "327": {
+    "names": [
+      "calcium lactate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "328": {
+    "names": [
+      "ammonium lactate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "329": {
+    "names": [
+      "magnesium lactate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "330": {
+    "names": [
+      "citric acid"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "331": {
+    "names": [
+      "sodium citrates"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "332": {
+    "names": [
+      "potassium citrates"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "333": {
+    "names": [
+      "calcium citrates"
+    ],
+    "categories": [
+      "food acid",
+      "firming agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "334": {
+    "names": [
+      "L(+)-tartaric acid"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "335": {
+    "names": [
+      "sodium tartrates"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "336": {
+    "names": [
+      "potassium tartrates"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "337": {
+    "names": [
+      "potassium sodium tartrate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "338": {
+    "names": [
+      "phosphoric acid"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "339": {
+    "names": [
+      "sodium phosphates"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "340": {
+    "names": [
+      "potassium phosphates"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "341": {
+    "names": [
+      "calcium phosphates"
+    ],
+    "categories": [
+      "mineral salt",
+      "anti-caking agent",
+      "firming agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "342": {
+    "names": [
+      "ammonium phosphates"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "343": {
+    "names": [
+      "magnesium phosphates"
+    ],
+    "categories": [
+      "mineral salt",
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "344": {
+    "names": [
+      "lecithin citrate"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "345": {
+    "names": [
+      "magnesium citrate"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "349": {
+    "names": [
+      "ammonium malate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "350": {
+    "names": [
+      "sodium malates"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "351": {
+    "names": [
+      "potassium malate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "352": {
+    "names": [
+      "calcium malates"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "353": {
+    "names": [
+      "metatartaric acid"
+    ],
+    "categories": [
+      "food acid",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "354": {
+    "names": [
+      "calcium tartrate"
+    ],
+    "categories": [
+      "food acid",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "355": {
+    "names": [
+      "adipic acid"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "356": {
+    "names": [
+      "sodium adipate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "357": {
+    "names": [
+      "potassium adipate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "359": {
+    "names": [
+      "ammonium adipates"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "363": {
+    "names": [
+      "succinic acid"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "364": {
+    "names": [
+      "sodium succinates"
+    ],
+    "categories": [
+      "acidity regulator",
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "365": {
+    "names": [
+      "sodium fumarate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "366": {
+    "names": [
+      "potassium fumarate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "367": {
+    "names": [
+      "calcium fumarate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "368": {
+    "names": [
+      "ammonium fumarate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "370": {
+    "names": [
+      "1",
+      "4-heptonolactone"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "375": {
+    "names": [
+      "niacin (nicotinic acid)",
+      "nicotinamide (vitamin B3)"
+    ],
+    "categories": [
+      "colour retention agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "380": {
+    "names": [
+      "triammonium citrate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "381": {
+    "names": [
+      "ferric ammonium citrate",
+      "ammonium ferrocitrate"
+    ],
+    "categories": [
+      "food acid"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "384": {
+    "names": [
+      "isopropyl citrates"
+    ],
+    "categories": [
+      "antioxidant",
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "385": {
+    "names": [
+      "calcium disodium EDTA"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "386": {
+    "names": [
+      "disodium ethylenediaminetetraacetate"
+    ],
+    "categories": [
+      "antioxidant",
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "387": {
+    "names": [
+      "oxystearin"
+    ],
+    "categories": [
+      "antioxidant",
+      "sequestrant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "388": {
+    "names": [
+      "thiodipropionic acid"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "389": {
+    "names": [
+      "dilauryl thiodipropionate"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "390": {
+    "names": [
+      "distearyl thiodipropionate"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "391": {
+    "names": [
+      "phytic acid"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "399": {
+    "names": [
+      "calcium lactobionate"
+    ],
+    "categories": [
+      "stabilizer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "400": {
+    "names": [
+      "alginic acid"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "401": {
+    "names": [
+      "sodium alginate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "402": {
+    "names": [
+      "potassium alginate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "403": {
+    "names": [
+      "ammonium alginate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "404": {
+    "names": [
+      "calcium alginate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "405": {
+    "names": [
+      "propylene glycol alginate",
+      "propane-1",
+      "2-diol alginate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "406": {
+    "names": [
+      "agar"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "407": {
+    "names": [
+      "carrageenan"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "409": {
+    "names": [
+      "arabinogalactan"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "410": {
+    "names": [
+      "locust bean gum"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "412": {
+    "names": [
+      "guar gum"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "413": {
+    "names": [
+      "tragacanth"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "414": {
+    "names": [
+      "gum acacia",
+      "gum arabic"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "415": {
+    "names": [
+      "xanthan gum"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "416": {
+    "names": [
+      "karaya gum"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "417": {
+    "names": [
+      "tara gum"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "418": {
+    "names": [
+      "gellan gum"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "420": {
+    "names": [
+      "sorbitol"
+    ],
+    "categories": [
+      "humectant",
+      "emulsifier",
+      "sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "421": {
+    "names": [
+      "mannitol"
+    ],
+    "categories": [
+      "humectant",
+      "anti-caking agent",
+      "sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "422": {
+    "names": [
+      "glycerin"
+    ],
+    "categories": [
+      "humectant",
+      "sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "425": {
+    "names": [
+      "konjac",
+      "konjac gum",
+      "konjac glucomannate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "428": {
+    "names": [
+      "gelatin",
+      "gelatine (not classified as an additive)"
+    ],
+    "categories": [
+      "carrier",
+      "emulsifier",
+      "gelling agent",
+      "stabiliser",
+      "thickener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "430": {
+    "names": [
+      "polyoxyethylene (8) stearate"
+    ],
+    "categories": [
+      "emulsifier",
+      "stabilizer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": "?",
+      "US": true
+    }
+  },
+  "431": {
+    "names": [
+      "polyoxyethylene (40) stearate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "432": {
+    "names": [
+      "polysorbate 20"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "433": {
+    "names": [
+      "polysorbate 80"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "434": {
+    "names": [
+      "polysorbate 40"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "435": {
+    "names": [
+      "polysorbate 60"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "436": {
+    "names": [
+      "polysorbate 65"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "440": {
+    "names": [
+      "pectin"
+    ],
+    "categories": [
+      "vegetable gum",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "441": {
+    "names": [
+      "Superglycerinated hydrogenated rapeseed oil",
+      "Hydrogenated rapeseed oil superglycerinated",
+      "Superglycerinated fully hydrogenated rapeseed oil"
+    ],
+    "categories": [
+      "Emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "442": {
+    "names": [
+      "Mixed ammonium salts of phosphorylated glyceridess"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "443": {
+    "names": [
+      "brominated vegetable oil"
+    ],
+    "categories": [
+      "emulsifier",
+      "stabiliser"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": false,
+      "US": true
+    }
+  },
+  "444": {
+    "names": [
+      "sucrose acetate isobutyrate"
+    ],
+    "categories": [
+      "emulsifier",
+      "stabiliser"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "445": {
+    "names": [
+      "glycerol esters of wood rosins"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "450": {
+    "names": [
+      "diphosphates"
+    ],
+    "categories": [
+      "mineral salt",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "451": {
+    "names": [
+      "triphosphates"
+    ],
+    "categories": [
+      "mineral salt",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "452": {
+    "names": [
+      "polyphosphates"
+    ],
+    "categories": [
+      "mineral salt",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "459": {
+    "names": [
+      "beta-cyclodextrin"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "460": {
+    "names": [
+      "powdered cellulose",
+      "microcrystalline cellulose"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "461": {
+    "names": [
+      "methylcellulose"
+    ],
+    "categories": [
+      "thickener",
+      "emulsifier",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "463": {
+    "names": [
+      "hydroxypropyl cellulose"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "464": {
+    "names": [
+      "hydroxypropyl methylcellulose"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "465": {
+    "names": [
+      "methyl ethyl cellulose",
+      "ethyl methyl cellulose"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "466": {
+    "names": [
+      "sodium carboxymethylcellulose"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "468": {
+    "names": [
+      "crosslinked sodium carboxymethylcellulose"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "469": {
+    "names": [
+      "enzymatically hydrolyzed carboxymethyl cellulose"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "470": {
+    "names": [
+      "magnesium stearate"
+    ],
+    "categories": [
+      "emulsifier",
+      "stabiliser"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "471": {
+    "names": [
+      "mono- and diglycerides of fatty acids",
+      "glyceryl monostearate",
+      "glyceryl distearate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "473": {
+    "names": [
+      "sucrose esters of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "474": {
+    "names": [
+      "sucroglycerides"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "475": {
+    "names": [
+      "polyglycerol esters of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "476": {
+    "names": [
+      "polyglycerol polyricinoleate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "477": {
+    "names": [
+      "propylene glycol esters of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "478": {
+    "names": [
+      "lactylated fatty acid esters of glycerol and propylene glycol"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": "?",
+      "US": true
+    }
+  },
+  "480": {
+    "names": [
+      "dioctyl sodium sulfosuccinate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "481": {
+    "names": [
+      "sodium stearoyl lactylate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "482": {
+    "names": [
+      "calcium stearoyl lactylate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "483": {
+    "names": [
+      "stearyl tartarate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "491": {
+    "names": [
+      "sorbitan monostearate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "492": {
+    "names": [
+      "sorbitan tristearate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "493": {
+    "names": [
+      "sorbitan monolaurate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "494": {
+    "names": [
+      "sorbitan monooleate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "495": {
+    "names": [
+      "sorbitan monopalmitate"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "500": {
+    "names": [
+      "sodium carbonate",
+      "sodium bicarbonate (E500ii)"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "501": {
+    "names": [
+      "potassium carbonate",
+      "potassium bicarbonate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "503": {
+    "names": [
+      "ammonium carbonate",
+      "ammonium bicarbonate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "504": {
+    "names": [
+      "magnesium carbonate"
+    ],
+    "categories": [
+      "anti-caking agent",
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "507": {
+    "names": [
+      "hydrochloric acid"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "508": {
+    "names": [
+      "potassium chloride"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "509": {
+    "names": [
+      "calcium chloride"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "510": {
+    "names": [
+      "ammonium chloride"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "511": {
+    "names": [
+      "magnesium chloride"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "512": {
+    "names": [
+      "stannous chloride"
+    ],
+    "categories": [
+      "colour retention agent",
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "513": {
+    "names": [
+      "sulfuric acid"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "514": {
+    "names": [
+      "sodium sulfate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "515": {
+    "names": [
+      "potassium sulfate"
+    ],
+    "categories": [
+      "mineral salt",
+      "seasoning"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "516": {
+    "names": [
+      "calcium sulfate"
+    ],
+    "categories": [
+      "flour treatment agent",
+      "mineral salt",
+      "sequestrant",
+      "improving agent",
+      "firming agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "517": {
+    "names": [
+      "ammonium sulfate"
+    ],
+    "categories": [
+      "mineral salt",
+      "improving agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "518": {
+    "names": [
+      "magnesium sulfate",
+      "Epsom salts"
+    ],
+    "categories": [
+      "mineral salt",
+      "acidity regulator",
+      "firming agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "519": {
+    "names": [
+      "cupric sulfate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "520": {
+    "names": [
+      "aluminium sulfate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "521": {
+    "names": [
+      "aluminium sodium sulfate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "522": {
+    "names": [
+      "aluminium potassium sulfate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "523": {
+    "names": [
+      "aluminium ammonium sulfate"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "524": {
+    "names": [
+      "sodium hydroxide"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "525": {
+    "names": [
+      "potassium hydroxide"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "526": {
+    "names": [
+      "calcium hydroxide"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "527": {
+    "names": [
+      "ammonium hydroxide"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "528": {
+    "names": [
+      "magnesium hydroxide"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "529": {
+    "names": [
+      "calcium oxide"
+    ],
+    "categories": [
+      "mineral salt"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "530": {
+    "names": [
+      "magnesium oxide"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "535": {
+    "names": [
+      "sodium ferrocyanide"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "536": {
+    "names": [
+      "potassium ferrocyanide"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "538": {
+    "names": [
+      "calcium ferrocyanide"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "540": {
+    "names": [
+      "dicalcium diphosphate"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "541": {
+    "names": [
+      "sodium aluminium phosphate"
+    ],
+    "categories": [
+      "acidity regulator",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "542": {
+    "names": [
+      "bone phosphate"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "544": {
+    "names": [
+      "calcium polyphosphates"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "545": {
+    "names": [
+      "ammonium polyphosphates"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "551": {
+    "names": [
+      "silicon dioxide"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "552": {
+    "names": [
+      "calcium silicate"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "554": {
+    "names": [
+      "sodium aluminosilicate (sodium aluminium silicate)"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "555": {
+    "names": [
+      "potassium aluminium silicate"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "556": {
+    "names": [
+      "calcium aluminosilicate (calcium aluminium silicate)"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "558": {
+    "names": [
+      "bentonite"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "559": {
+    "names": [
+      "kaolin",
+      "aluminium silicate"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "570": {
+    "names": [
+      "stearic acid"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "575": {
+    "names": [
+      "glucono delta-lactone"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "576": {
+    "names": [
+      "sodium gluconate"
+    ],
+    "categories": [
+      "stabiliser"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "577": {
+    "names": [
+      "potassium gluconate"
+    ],
+    "categories": [
+      "stabiliser"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "578": {
+    "names": [
+      "calcium gluconate"
+    ],
+    "categories": [
+      "acidity regulator"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "579": {
+    "names": [
+      "ferrous gluconate"
+    ],
+    "categories": [
+      "colour retention agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "585": {
+    "names": [
+      "ferrous lactate"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "620": {
+    "names": [
+      "glutamic acid"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "621": {
+    "names": [
+      "monosodium glutamate (MSG)"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "622": {
+    "names": [
+      "monopotassium glutamate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "623": {
+    "names": [
+      "calcium diglutamate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "624": {
+    "names": [
+      "monoammonium glutamate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "625": {
+    "names": [
+      "magnesium diglutamate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "626": {
+    "names": [
+      "guanylic acid"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "627": {
+    "names": [
+      "disodium guanylate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "628": {
+    "names": [
+      "dipotassium guanylate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "629": {
+    "names": [
+      "calcium guanylate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "630": {
+    "names": [
+      "inosinic acid"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "631": {
+    "names": [
+      "disodium inosinate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "632": {
+    "names": [
+      "dipotassium inosinate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "633": {
+    "names": [
+      "calcium inosinate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "634": {
+    "names": [
+      "calcium 5'-ribonucleotides"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "635": {
+    "names": [
+      "disodium 5'-ribonucleotides"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "636": {
+    "names": [
+      "maltol"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "637": {
+    "names": [
+      "ethyl maltol"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "640": {
+    "names": [
+      "glycine"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "641": {
+    "names": [
+      "leucine"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "650": {
+    "names": [
+      "zinc acetate"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "900": {
+    "names": [
+      "dimethylpolysiloxane"
+    ],
+    "categories": [
+      "emulsifier",
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "901": {
+    "names": [
+      "beeswax"
+    ],
+    "categories": [
+      "glazing agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "902": {
+    "names": [
+      "candelilla wax"
+    ],
+    "categories": [
+      "glazing agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "903": {
+    "names": [
+      "carnauba wax"
+    ],
+    "categories": [
+      "glazing agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "904": {
+    "names": [
+      "shellac"
+    ],
+    "categories": [
+      "glazing agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "905": {
+    "names": [
+      "paraffins"
+    ],
+    "categories": [
+      "glazing agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "907": {
+    "names": [
+      "refined microcrystalline wax"
+    ],
+    "categories": [
+      "glazing agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "912": {
+    "names": [
+      "montanic acid esters"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "914": {
+    "names": [
+      "oxidised polyethylene wax"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "920": {
+    "names": [
+      "L-cysteine"
+    ],
+    "categories": [
+      "flour treatment agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "924": {
+    "names": [
+      "potassium bromate"
+    ],
+    "categories": [
+      "flour treatment agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": false
+    }
+  },
+  "925": {
+    "names": [
+      "chlorine"
+    ],
+    "categories": [
+      "flour treatment agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "926": {
+    "names": [
+      "chlorine dioxide"
+    ],
+    "categories": [
+      "flour treatment agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "928": {
+    "names": [
+      "benzoyl peroxide"
+    ],
+    "categories": [
+      "flour treatment agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "938": {
+    "names": [
+      "argon"
+    ],
+    "categories": [
+      "propellant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "939": {
+    "names": [
+      "helium"
+    ],
+    "categories": [
+      "propellant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "941": {
+    "names": [
+      "nitrogen"
+    ],
+    "categories": [
+      "propellant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "942": {
+    "names": [
+      "nitrous oxide"
+    ],
+    "categories": [
+      "propellant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "950": {
+    "names": [
+      "Acesulfame potassium"
+    ],
+    "categories": [
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "951": {
+    "names": [
+      "aspartame"
+    ],
+    "categories": [
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "952": {
+    "names": [
+      "cyclamic acid",
+      "cyclamates"
+    ],
+    "categories": [
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "953": {
+    "names": [
+      "isomalt"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "954": {
+    "names": [
+      "saccharin"
+    ],
+    "categories": [
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "955": {
+    "names": [
+      "sucralose"
+    ],
+    "categories": [
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "956": {
+    "names": [
+      "alitame"
+    ],
+    "categories": [
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "957": {
+    "names": [
+      "thaumatin"
+    ],
+    "categories": [
+      "flavour enhancer",
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "959": {
+    "names": [
+      "neohesperidin dihydrochalcone"
+    ],
+    "categories": [
+      "artificial sweetener"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "965": {
+    "names": [
+      "maltitol"
+    ],
+    "categories": [
+      "humectant",
+      "stabiliser"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "966": {
+    "names": [
+      "lactitol"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "967": {
+    "names": [
+      "xylitol"
+    ],
+    "categories": [
+      "humectant",
+      "stabiliser"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "999": {
+    "names": [
+      "quillaia extract"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1001": {
+    "names": [
+      "choline salts and esters"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1100": {
+    "names": [
+      "amylases"
+    ],
+    "categories": [
+      "flour treatment agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1102": {
+    "names": [
+      "glucose oxidase"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1103": {
+    "names": [
+      "invertase"
+    ],
+    "categories": [
+      "?"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1104": {
+    "names": [
+      "lipases"
+    ],
+    "categories": [
+      "flavour enhancer"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1105": {
+    "names": [
+      "lysozyme"
+    ],
+    "categories": [
+      "preservative"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1200": {
+    "names": [
+      "polydextrose"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1201": {
+    "names": [
+      "poly vinyl pyrrolidone"
+    ],
+    "categories": [
+      "?"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1202": {
+    "names": [
+      "polyvinylpolypyrrolidone"
+    ],
+    "categories": [
+      "colour stabiliser"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1400": {
+    "names": [
+      "dextrin roasted starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1401": {
+    "names": [
+      "acid treated starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1402": {
+    "names": [
+      "alkaline treated starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1403": {
+    "names": [
+      "bleached starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1404": {
+    "names": [
+      "oxidised starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1405": {
+    "names": [
+      "enzyme treated starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "1410": {
+    "names": [
+      "monostarch phosphate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1412": {
+    "names": [
+      "distarch phosphate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1413": {
+    "names": [
+      "phosphated distarch phosphate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1414": {
+    "names": [
+      "acetylated distarch phosphate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1420": {
+    "names": [
+      "acetylated starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1422": {
+    "names": [
+      "acetylated distarch adipate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1440": {
+    "names": [
+      "hydroxypropyl starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1442": {
+    "names": [
+      "hydroxypropyl distarch phosphate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1450": {
+    "names": [
+      "starch sodium octenylsuccinate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1451": {
+    "names": [
+      "acetylated oxidised starch"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1505": {
+    "names": [
+      "triethyl citrate"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1510": {
+    "names": [
+      "ethanol (not classified as an additive)"
+    ],
+    "categories": [
+      "alcohol"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": false
+    }
+  },
+  "1518": {
+    "names": [
+      "triacetin"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1520": {
+    "names": [
+      "propylene glycol"
+    ],
+    "categories": [
+      "humectant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "1521": {
+    "names": [
+      "Polyethylene glycol[citation needed]"
+    ],
+    "categories": [
+      "antifoaming agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "100(i)": {
+    "names": [
+      "curcumin"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "100(ii)": {
+    "names": [
+      "turmeric"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "101(i)": {
+    "names": [
+      "riboflavin, synthetic (vitamin B2)"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "101(ii)": {
+    "names": [
+      "Riboflavin-5'-phosphate"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "101(iii)": {
+    "names": [
+      "riboflavin from Bacillus subtilis"
+    ],
+    "categories": [
+      "colour",
+      "colour (yellow and orange)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": false
+    }
+  },
+  "141(i)": {
+    "names": [
+      "Chlorophylls, copper complexes"
+    ],
+    "categories": [
+      "colour",
+      "colour (green)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "141(ii)": {
+    "names": [
+      "Chlorophyllins, copper complexes, potassium and sodium salts"
+    ],
+    "categories": [
+      "colour",
+      "colour (green)"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": true
+    }
+  },
+  "150a": {
+    "names": [
+      "caramel I – plain"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "150b": {
+    "names": [
+      "caramel II – sulfite caramel"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "150c": {
+    "names": [
+      "caramel III – ammonia caramel"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "150d": {
+    "names": [
+      "caramel IV – sulfite ammonia caramel"
+    ],
+    "categories": [
+      "colour",
+      "colour (brown and black)"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160a": {
+    "names": [
+      "carotenes"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160a(i)": {
+    "names": [
+      "beta-carotene, synthetic"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160a(ii)": {
+    "names": [
+      "beta-carotene, vegetable"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160a(iii)": {
+    "names": [
+      "beta-carotene, Blakeslea trispora"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160a(iv)": {
+    "names": [
+      "beta-carotene, algae"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160b": {
+    "names": [
+      "annatto extracts"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160b(i)": {
+    "names": [
+      "annatto extracts, bixin-based"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160b(ii)": {
+    "names": [
+      "annatto extracts, norbixin-based"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160c": {
+    "names": [
+      "paprika oleoresin (paprika extract)"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160d": {
+    "names": [
+      "lycopenes"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160d(i)": {
+    "names": [
+      "lycopene, synthetic"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160d(ii)": {
+    "names": [
+      "lycopene, tomato"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160d(iii)": {
+    "names": [
+      "lycopene, Blakeslea trispora"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160e": {
+    "names": [
+      "beta-apo-8'-carotenal (C 30)"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "160f": {
+    "names": [
+      "beta-apo-8'-carotenic acid ethyl ester"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "161a": {
+    "names": [
+      "flavoxanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "161b": {
+    "names": [
+      "luteins"
+    ],
+    "categories": [],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "161b(i)": {
+    "names": [
+      "lutein from Tagetes erecta"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "161b(ii)": {
+    "names": [
+      "Tagetes extract"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "161c": {
+    "names": [
+      "kryptoxanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "161d": {
+    "names": [
+      "rubixanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "161e": {
+    "names": [
+      "violaxanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "161f": {
+    "names": [
+      "rhodoxanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": false,
+      "US": true
+    }
+  },
+  "161g": {
+    "names": [
+      "canthaxanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "161h": {
+    "names": [
+      "zeaxanthins"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": "?",
+      "US": true
+    }
+  },
+  "161h(i)": {
+    "names": [
+      "zeaxanthin, synthetic"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": "?",
+      "US": true
+    }
+  },
+  "161h(ii)": {
+    "names": [
+      "zeaxanthin-rich extract from Tagetes erecta"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": "?",
+      "EU": "?",
+      "US": true
+    }
+  },
+  "161i": {
+    "names": [
+      "citranaxanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": false
+    },
+    "delisted": true
+  },
+  "161j": {
+    "names": [
+      "astaxanthin"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": false,
+      "US": false
+    },
+    "delisted": true
+  },
+  "163(ii)": {
+    "names": [
+      "Grape skin extract"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "163(iii)": {
+    "names": [
+      "Blackcurrant extract"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "163(iv)": {
+    "names": [
+      "Purple corn colour"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "163(v)": {
+    "names": [
+      "Red cabbage colour"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "170(i)": {
+    "names": [
+      "calcium carbonate"
+    ],
+    "categories": [
+      "Acidity regulator",
+      "anticaking agent",
+      "stabilizer",
+      "surface colourant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "170(ii)": {
+    "names": [
+      "calcium hydrogen carbonate"
+    ],
+    "categories": [
+      "Acidity regulator",
+      "anticaking agent",
+      "stabilizer",
+      "surface colourant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "172(i)": {
+    "names": [
+      "iron oxide, black"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "172(ii)": {
+    "names": [
+      "iron oxide, red"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "172(iii)": {
+    "names": [
+      "iron oxide, yellow"
+    ],
+    "categories": [
+      "colour"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "307a": {
+    "names": [
+      "l-alpha-tocopherol"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "307b": {
+    "names": [
+      "mixed tocopherol concentrate"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "307c": {
+    "names": [
+      "dl-alpha-tocopherol"
+    ],
+    "categories": [
+      "antioxidant"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "407a": {
+    "names": [
+      "processed eucheuma seaweed"
+    ],
+    "categories": [
+      "thickener",
+      "vegetable gum",
+      "stabilizer",
+      "gelling agent",
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "470a": {
+    "names": [
+      "sodium, potassium and calcium salts of fatty acids"
+    ],
+    "categories": [
+      "emulsifier",
+      "stabiliser",
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "470b": {
+    "names": [
+      "magnesium salts of fatty acids"
+    ],
+    "categories": [
+      "emulsifier",
+      "stabiliser",
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "472a": {
+    "names": [
+      "acetic acid esters of mono- and diglycerides of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "472b": {
+    "names": [
+      "lactic acid esters of mono- and diglycerides of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "472c": {
+    "names": [
+      "citric acid esters of mono- and diglycerides of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "472d": {
+    "names": [
+      "tartaric acid esters of mono- and diglycerides of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "472e": {
+    "names": [
+      "diacetyltartaric acid esters of mono- and diglycerides of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "472f": {
+    "names": [
+      "mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "479b": {
+    "names": [
+      "thermally oxidised soya bean oil"
+    ],
+    "categories": [
+      "emulsifier"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "553(i)": {
+    "names": [
+      "magnesium silicate, synthetic"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": "A",
+      "EU": "E",
+      "US": true
+    }
+  },
+  "553b": {
+    "names": [
+      "talc"
+    ],
+    "categories": [
+      "anti-caking agent"
+    ],
+    "approval": {
+      "AU": true,
+      "EU": true,
+      "US": true
+    }
+  },
+  "927b": {
+    "names": [
+      "carbamide"
+    ],
+    "categories": [
+      "flour treatment agent"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "943a": {
+    "names": [
+      "butane"
+    ],
+    "categories": [
+      "propellant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  },
+  "943b": {
+    "names": [
+      "isobutane"
+    ],
+    "categories": [
+      "propellant"
+    ],
+    "approval": {
+      "AU": false,
+      "EU": true,
+      "US": true
+    }
+  }
+}
