@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E number lookup</title>
+</head>
+<body>
+  <h1>E number lookup</h1>
+
+  <input type="search" id="search">
+  <div id="results"></div>
+  <script type="module">
+    const search = document.getElementById('search');
+    const results = document.getElementById('results');
+
+    const data = await fetch('./additives.json');
+    const additives = await data.json();
+
+    function filter (searchString) {
+      if (!searchString) return;
+      while (results.firstChild) results.lastChild.remove();
+      const string = searchString.trim().replace(/^[Ee]/, '');
+
+      const matches = Object.keys(additives).filter(k => k.indexOf(string) > -1).sort((a, b) => a.indexOf(string) - b.indexOf(string));
+      console.log({matches});
+      matches.forEach(m => {
+        const additive = additives[m];
+        const p = document.createElement('p');
+        p.innerHTML = `<a href="/${m}">
+            <span class="enum">${m}</span>
+            <span class="names">${additive.names.join('; ')}</span>
+          </a>`;
+        results.append(p);
+      })
+    }
+
+    search.addEventListener('keyup', event => filter(search.value));
+    search.addEventListener('change', event => filter(search.value));
+  </script>
+</body>
+</html>

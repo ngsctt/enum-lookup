@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E number: {{=it.num}}</title>
+</head>
+<body>
+  <h1>{{=it.num}}</h1>
+  <ul class="names">
+    {{~ it.names :n}}
+      <li>{{=n}}</li>
+    {{~}}
+  </ul>
+  <ul class="categories">
+    {{~ it.categories :c}}
+    <li>{{=c}}</li>
+    {{~}}
+  </ul>
+  <h2>Approval:</h2>
+  <ul>
+    <li class="appr-AU appr-{{=it.approval.AU}}">🇦🇺 {{=it.approval.AU}}</li>
+    <li class="appr-EU appr-{{=it.approval.EU}}">🇦🇺 {{=it.approval.EU}}</li>
+    <li class="appr-US appr-{{=it.approval.US}}">🇦🇺 {{=it.approval.US}}</li>
+  </ul>
+</body>
+</html>
